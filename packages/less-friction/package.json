@@ -1,0 +1,25 @@
+{
+  "name": "less-friction",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/babel-generator": "^6.25.1",
+    "@types/babel-traverse": "^6.25.3",
+    "@types/babel-types": "^7.0.0",
+    "@types/babylon": "^6.16.2",
+    "@types/prettier": "^1.9.0",
+    "babel-generator": "^6.26.0",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "babylon": "^6.18.0",
+    "jest": "^22.0.4",
+    "prettier": "^1.9.2"
+  }
+}
